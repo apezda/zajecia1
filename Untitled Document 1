@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+<ul>
+<li> <a href="https://login.poczta.home.pl/"> Home </a> </li>
+<li> <a href="https://www.koty.pl/"> Koty </a> </li>
+<li> <a href="https://www.psy.pl/"> Psy </a> </li>
+</ul> 
+<h1> <b> Here is our heading </b> </h1> 
+<p> Paragraph 1 Paragraph 1 Paragraph 1 Paragraph 1 Paragraph 1 </p>
+<p> Paragrph 2 Paragraph 2 Paragraph 2 </p> 
+<p> Paragraph 3 Paragraph 3 Paragraph 3 Paragraph 3 Paragraph 3 Paragraph 3 </p>
+<img src = "Kotek.jpg"/>
